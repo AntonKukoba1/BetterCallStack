@@ -12,3 +12,4 @@ Without the plugin:
 With the plugin:
 ![image](https://github.com/AntonKukoba1/BetterCallStack/assets/35240638/5e322e42-2d61-4dee-ab87-3859b538fd72)
 
+So the call stack becomes as accurate as the one shown in ProcessExplorer or Windbg
